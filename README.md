@@ -9,12 +9,11 @@
 > Now working for a Fintech company in front-end development.
 </details>
 
-#### Platform&Tools
+#### Platform & Tools
 
 [![](https://img.shields.io/badge/OS%20X-Catalina-%23ac8882?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/catalina/)>)
 [![](https://img.shields.io/badge/Bash-Oh%20My%20Zsh-%23c9d74f?style=flat-square&logo=GNU-Bash)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Code%20editor-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
-
 
 [![](https://img.shields.io/badge/-TypeScript-2496ED?style=flat-square&logo=typescript&logoColor=ffffff)](https://typescriptlang.org/)
 [![](https://img.shields.io/badge/-Angular%20JS-DD0031?style=flat-square&logo=angular&logoColor=ffffff)](https://angularjs.org/)
