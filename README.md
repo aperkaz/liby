@@ -1,13 +1,17 @@
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=liby&show_icons=true&hide=stars,prs&hide_title=true&theme=cobalt&hide_border=true">
-
-<img src="https://raw.githubusercontent.com/liby/liby/master/mona-whisper.gif" width="100" alt="GIF">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=liby&show_icons=true&hide=stars&hide_title=true&theme=cobalt&hide_border=true">
 
 <details>
-  <summary>A Coder for fun</summary>
+  <summary>
+    <strong>
+      A Coder for fun
+    <strong>
+  </summary>
 
 > Now working for a Fintech company in front-end development.
+
 </details>
+
+<img src="https://raw.githubusercontent.com/liby/liby/master/mona-whisper.gif" height="85" alt="GIF">
 
 #### Platform & Tools
 
