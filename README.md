@@ -3,7 +3,7 @@
 <details>
   <summary>
     <strong>
-      A Coder for fun
+      Code for fun, make things happen.
     <strong>
   </summary>
 
